@@ -7,6 +7,10 @@ build.sbt
 build.properties
 .bsp
 
+#npm
+package-lock.json
+package.json
+
 # JetBrains IDE
 .idea/
 
